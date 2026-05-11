@@ -6,8 +6,8 @@
 [![Go version](https://img.shields.io/github/go-mod/go-version/selfshop-dev/tmpl-seed)](go.mod)
 [![License](https://img.shields.io/github/license/selfshop-dev/tmpl-seed)](LICENSE)
 
-Базовый шаблонный репозиторий для Go-проектов в организации [selfshop-dev](https://github.com/selfshop-dev).
+Base template repository for Go projects in the [selfshop-dev](https://github.com/selfshop-dev) organization.
 
-## Лицензия
+## License
 
 [`MIT`](LICENSE) © 2026-present [`selfshop-dev`](https://github.com/selfshop-dev)
